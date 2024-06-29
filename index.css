@@ -177,3 +177,19 @@ footer {
         align-items: center;
     }
 }
+
+@media (max-width: 500px) {
+    /* HEADER */
+    header {
+        padding: 20px 2%;
+    }
+
+    header nav ul {
+        flex-direction: column;
+        line-height: 1.9;
+    }
+
+    /* .hero p {
+        display: none;
+    } */
+}
