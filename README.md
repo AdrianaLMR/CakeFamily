@@ -16,7 +16,6 @@ O projeto CakeFamily demonstra a integração das três tecnologias fundamentais
 
 - **Cabeçalho (Header):** Contém o logotipo e a navegação do site.
 - **Seções:** Divide o conteúdo do site em partes lógicas, como a seção de introdução e a seção de produtos.
-- **Formulário de Contato:** Implementado com campos de entrada e um botão de envio.
 - **Estilização com CSS:** Define a apresentação visual do site, melhorando a estética e usabilidade.
 - **Carregamento Dinâmico de Produtos:** Utiliza JavaScript para gerar dinamicamente os elementos de produto na seção de produtos.
 - **Formulário de Contato Interativo:** Adiciona interatividade ao capturar e processar envios de mensagens através do formulário.
